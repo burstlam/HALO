@@ -20,6 +20,15 @@
     <string name="ext_note4">注解 4</string>
     <string name="extensions">插件</string>
 
-    <string name="note">注解</string>
+    <string name="ext_notes">注解</string>
 
+	<string name="nopa_title">是否安裝PA混合動力</string>
+	<string name="nopa_content">"Halo))) 專為PA混合動力而設，欠缺混合動力引擎的ROM將無法使用全部功能</string>
+	<string name="nopa_ok">"OK"</string>
+	<string name="nopa_download">安裝PA混合動力？</string>
+
+    <string name="helper_static_2">如何使用Halo)))</string>
+    <string name="helper_static_3">輕按扣針按鈕</string>
+    <string name="helper_static_4">然后選擇對話框列表中您所需要顯示的應用程序。</string>
+    <string name="helper_static_5">最后點擊開始按鈕，大功告成！如果你想要禁用只需點擊暫停按鈕。</string>
 </resources>

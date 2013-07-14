@@ -13,13 +13,21 @@
     <string name="unknown">未知</string>
     
     <string name="stop_to_remove">在移除任何应用程序前，请先停止服务。</string>
-    
+
+    <string name="ext_notes">便签</string>
     <string name="ext_note1">便签 1</string>
     <string name="ext_note2">便签 2</string>
     <string name="ext_note3">便签 3</string>
     <string name="ext_note4">便签 4</string>
     <string name="extensions">插件</string>
 
-    <string name="note">便签</string>
+	<string name="nopa_title">是否安装PA混合动力</string>
+	<string name="nopa_content">"Halo))) 专为PA混合动力而设，欠缺混合动力引擎的ROM将无法使用全部功能</string>
+	<string name="nopa_ok">"OK"</string>
+	<string name="nopa_download">安装PA混合动力？</string>
 
+    <string name="helper_static_2">如何使用Halo)))</string>
+    <string name="helper_static_3">轻按扣针按钮</string>
+    <string name="helper_static_4">然后选择对话框列表中您所需要显示的应用程序。</string>
+    <string name="helper_static_5">最后点击开始按钮，大功告成！如果你想要禁用只需点击暂停按钮。</string>
 </resources>
